@@ -5,5 +5,5 @@
 para rodar o projeto em suma máquina, por favor digite:
 
 ```
-npm install react
+node app.js
 ```
